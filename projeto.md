@@ -6,7 +6,7 @@
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
-|:---|:---|:---|
+|Leonardo Pereira Mendes Ribas|Gerente de Projeto|loen.ribas20@gmail.com|
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
 
 # Sumário
