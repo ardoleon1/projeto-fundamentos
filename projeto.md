@@ -11,6 +11,7 @@
 |Patricia de Oliveira Silva|Gerente de Projeto|patriciaoliveirasilva155@gmail.com|
 |Keila Rodrigues Silva|Analista|rodrigueskeila570@gmail.com|
 |Caliane Antoniely Magalhães|Analista|calianeantonielly@gamil.com|
+|Gabrielly Serafim de Oliveira|Analista|gabriellyoliveira.ifro@gmail.com|
 
 # Sumário
 
