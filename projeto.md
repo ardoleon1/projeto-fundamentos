@@ -9,6 +9,7 @@
 |:---|:---|:---|
 |Leonardo Pereira Mendes Ribas|Gerente de Projeto|loen.ribas20@gmail.com|
 |Patricia de Oliveira Silva|Gerente de Projeto|patriciaoliveirasilva155@gmail.com|
+|Keila Rodrigues Silva|Analista|rodrigueskeila570@gmail.com|
 
 # Sumário
 
