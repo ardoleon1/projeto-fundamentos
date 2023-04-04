@@ -1,6 +1,6 @@
 <img src='/img/logo_oficial.jpeg' alt='logo da empresa' width='100px' heidth='100px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *CREATIVE MIND*
 
 # PROJETO DE SOFTWARE
 
@@ -8,10 +8,10 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Leonardo Pereira Mendes Ribas|Gerente de Projeto|loen.ribas20@gmail.com|
-|Patricia de Oliveira Silva|Gerente de Projeto|patriciaoliveirasilva155@gmail.com|
+|Patricia de Oliveira Silva|Engenheira de Software|patriciaoliveirasilva155@gmail.com|
 |Keila Rodrigues Silva|Analista|rodrigueskeila570@gmail.com|
-|Caliane Antoniely Magalhães|Analista|calianeantonielly@gamil.com|
-|Gabrielly Serafim de Oliveira|Analista|gabriellyoliveira.ifro@gmail.com|
+|Caliane Antoniely Magalhães|Programadora Front-end|calianeantonielly@gamil.com|
+|Gabrielly Serafim de Oliveira|Programadora Back-end|gabriellyoliveira.ifro@gmail.com|
 
 # Sumário
 
@@ -45,19 +45,19 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | Creative Mind |
+| GERENTE DO PROJETO | Leonardo Pereira |
+| PRINCIPAL OBJETIVO | Auxiliar as pessoas a criarem novos contos e histórias no site, além de realizar postagens em fórum sobre seus gostos. |
+| BENEFÍCIOS ESPERADOS |* Desenvolvimento da criatividade;<br/>* Desenvolvimento do pensamento crítico;<br/>* Desenvolvimento da imaginação;<br/>* Fortalecer a comunicação dentro de uma comunidade;<br/>* Criar hábito de leitura|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 # INTRODUÇÃO
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Creative Mind_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
