@@ -1,4 +1,4 @@
-<img src='/img/logo.png' alt='logo da empresa' width='150px' heidth='150px'/>
+<img src='/img/Logo da Creative Mind.jpg' alt='logo da empresa' width='100px' heidth='100px'/>
 
 # *FIBONACCI MANAGEMENT SYSTEM*
 
@@ -6,7 +6,7 @@
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
-|keila|gerente de projeto|rodrigueskeila@gmail.com|
+|Leonardo Pereira Mendes Ribas|Gerente de Projeto|loen.ribas20@gmail.com|
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
 
 # Sumário
