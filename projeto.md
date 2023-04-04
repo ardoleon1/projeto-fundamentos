@@ -1,4 +1,4 @@
-<img src='/img/Logo da Creative Mind.jpg' alt='logo da empresa' width='100px' heidth='100px'/>
+<img src='/img/logo_oficial.jpeg' alt='logo da empresa' width='100px' heidth='100px'/>
 
 # *FIBONACCI MANAGEMENT SYSTEM*
 
