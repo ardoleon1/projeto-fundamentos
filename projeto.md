@@ -63,14 +63,12 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
 * Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
+  * Discussões individuais de um representante da equipe com Fernanda, gerente de conteúdo do fórum de leitura, para entender as necessidades dos usuários e as expectativas da empresa;
 * Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
+  * Miguel, professor de literatura da Universidade Federal, orientou a equipe na concepção do sistema, devido à sua vasta experiência no ensino e leitura de literatura;
+  * Larissa, professora de biblioteconomia da Universidade Estadual, orientou na análise de requisitos, devido à sua grande experiência em bibliotecas digitais e fóruns de discussão;
 * Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante, para garantir que as necessidades dos usuários fossem atendidas e a experiência do usuário fosse aprimorada.
 
 
 
@@ -78,11 +76,17 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* TBR: significa "To Be Read", ou seja, "a ser lido". É comumente usado para se referir a uma lista de livros que alguém planeja ler.
+* DNF: significa "Did Not Finish", ou seja, "não terminei". É usado para indicar que alguém começou a ler um livro, mas não conseguiu terminar.
+* OTP: significa "One True Pairing", ou seja, "o único par verdadeiro". É usado para se referir a um casal em um livro que os fãs acreditam que deveriam estar juntos.
+* POV: significa "Point of View", ou seja, "ponto de vista". É usado para se referir ao narrador ou ao personagem principal de uma história.
+* ARC: significa "Advance Reader Copy", ou seja, "cópia para leitores antecipados". É usado para se referir a cópias de livros que são enviadas antecipadamente a revisores ou influenciadores para análise antes do lançamento oficial.
+* HEA: significa "Happily Ever After", ou seja, "felizes para sempre". É usado para se referir ao final feliz de um livro ou de um relacionamento romântico.
+* MC: significa "Main Character", ou seja, "personagem principal". É usado para se referir ao personagem principal de uma história.
+* NA: significa "New Adult", ou seja, "jovem adulto". É usado para se referir a livros que apresentam personagens em seus vinte e poucos anos.
+* YA: significa "Young Adult", ou seja, "jovem adulto". É usado para se referir a livros que apresentam personagens adolescentes.
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 # DESCRIÇÃO GERAL
 
@@ -90,15 +94,15 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
+O projeto consiste na construção de uma plataforma de fórum de leitura para gerenciamento de aprendizado, que possa atender os requisitos de uma livraria virtual, no fator de promoção da leitura e engajamento da comunidade de leitores. O projeto visa auxiliar a livraria através de ferramentas de discussão síncronas e assíncronas que serão usadas por funcionários, autores e leitores da comunidade literária. A plataforma terá recursos de avaliação de livros, recomendação de leituras e integração com as principais redes sociais para fomentar discussões e promover a participação ativa dos membros da comunidade.
 O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Venda de livros físicos;
+* Integração com outras livrarias virtuais;
+* Suporte de aprendizagem de idiomas.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
