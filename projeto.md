@@ -12,7 +12,7 @@
 |Keila Rodrigues Silva|Analista|rodrigueskeila570@gmail.com|
 |Caliane Antoniely Magalhães|Programadora Front-end|calianeantonielly@gamil.com|
 |Gabrielly Serafim de Oliveira|Programadora Back-end|gabriellyoliveira.ifro@gmail.com|
-|Teste 1|Teste 2|Teste 3|
+|Teste 1|Teste 2|Teste 4|
 
 # Sumário
 
