@@ -46,7 +46,7 @@
 | ITEM | DESCRIÇÃO|
 |:---|:---|
 | NOME DO PROJETO | Creative Mind |
-| GERENTE DO PROJETO | Leonardo Pereira |
+| GERENTE DO PROJETO | Leonardo Pereira Mendes Ribas |
 | PRINCIPAL OBJETIVO | Auxiliar as pessoas a criarem novos contos e histórias no site, além de realizar postagens em fórum sobre seus gostos. |
 | BENEFÍCIOS ESPERADOS |* Desenvolvimento da criatividade;<br/>* Desenvolvimento do pensamento crítico;<br/>* Desenvolvimento da imaginação;<br/>* Fortalecer a comunicação dentro de uma comunidade;<br/>* Criar hábito de leitura|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
