@@ -75,7 +75,17 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
 
+Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
+* TBR: significa "To Be Read", ou seja, "a ser lido". É comumente usado para se referir a uma lista de livros que alguém planeja ler.
+* DNF: significa "Did Not Finish", ou seja, "não terminei". É usado para indicar que alguém começou a ler um livro, mas não conseguiu terminar.
+* OTP: significa "One True Pairing", ou seja, "o único par verdadeiro". É usado para se referir a um casal em um livro que os fãs acreditam que deveriam estar juntos.
+* POV: significa "Point of View", ou seja, "ponto de vista". É usado para se referir ao narrador ou ao personagem principal de uma história.
+* ARC: significa "Advance Reader Copy", ou seja, "cópia para leitores antecipados". É usado para se referir a cópias de livros que são enviadas antecipadamente a revisores ou influenciadores para análise antes do lançamento oficial.
+* HEA: significa "Happily Ever After", ou seja, "felizes para sempre". É usado para se referir ao final feliz de um livro ou de um relacionamento romântico.
+* MC: significa "Main Character", ou seja, "personagem principal". É usado para se referir ao personagem principal de uma história.
+* NA: significa "New Adult", ou seja, "jovem adulto". É usado para se referir a livros que apresentam personagens em seus vinte e poucos anos.
+* YA: significa "Young Adult", ou seja, "jovem adulto". É usado para se referir a livros que apresentam personagens adolescentes.
 
 [ [INÍCIO](#creative-mind) ]
 
