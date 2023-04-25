@@ -62,14 +62,7 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com Fernanda, gerente de conteúdo do fórum de leitura, para entender as necessidades dos usuários e as expectativas da empresa;
-* Consulta com especialista:
-  * Miguel, professor de literatura da Universidade Federal, orientou a equipe na concepção do sistema, devido à sua vasta experiência no ensino e leitura de literatura;
-  * Larissa, professora de biblioteconomia da Universidade Estadual, orientou na análise de requisitos, devido à sua grande experiência em bibliotecas digitais e fóruns de discussão;
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante, para garantir que as necessidades dos usuários fossem atendidas e a experiência do usuário fosse aprimorada.
+
 
 
 
