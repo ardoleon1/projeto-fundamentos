@@ -219,8 +219,18 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |Segurança  |A capacidade do sistema de proteger informações. |
+|RNF-002 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-003 |Disponibilidade| Estar sempre disponível , sem paralizações prolongadas. |
+|RNF-004 |Confiabilidade | Capacidade de ser confiável, realizando suas funções de forma consistentee sem falhas. |
+|RNF-005 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-006 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-007 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-008 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-009 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-0010|Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
