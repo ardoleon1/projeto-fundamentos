@@ -227,8 +227,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-006 |Mantenabilidade | A capacidade do sistema de ser facilmente mantido e atualizado, sem ser interrompido. |
 |RNF-007 |Capacidade | Capacidade do sistema de ser monitorado e gerenciado facilmente pelos administradores do sistema. |
 |RNF-008 |Adaptabilidade |  A facilidade do sitema de se adaptar a diferentes ambientes. |
-|RNF-009 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
-|RNF-0010|Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-009 |Usabilidade | Facilidade para que os usiarios possam interagir com o sistema. |
+|RNF-0010|Interoperabilidade | O sistema podera se integrar facilmente a outros sistemas ou aplicativos. |
 
 
 
