@@ -225,8 +225,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-004 |Confiabilidade | Capacidade de ser confiável, realizando suas funções de forma consistente sem falhas. |
 |RNF-005 |Desempenho |A capacidade do sistema de lidar com grandes volumes de dados de forma rápida e eficiente . |
 |RNF-006 |Mantenabilidade | A capacidade do sistema de ser facilmente mantido e atualizado, sem ser interrompido. |
-|RNF-007 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
-|RNF-008 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
+|RNF-007 |Capacidade | Capacidade do sistema de ser monitorado e gerenciado facilmente pelos administradores do sistema. |
+|RNF-008 |Adaptabilidade |  A facilidade do sitema de se adaptar a diferentes ambientes. |
 |RNF-009 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
 |RNF-0010|Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
 
