@@ -192,8 +192,26 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 | Criar conta | Permitir que os usuários se inscrevam no site criando uma nova conta de usuário. |
+|RF-002 | Solicitar dados | Solicitar as informações necessárias para criar uma conta de usuário, como nome, endereço de e-mail e senha. |
+|RF-003 | Verificar e-mail | Verificar se o endereço de e-mail fornecido é válido e não foi usado anteriormente para criar uma conta de usuário. |
+|RF-004 | Fazer login | Permitir que os usuários façam login no site usando suas credenciais de conta de usuário. |
+|RF-005 | Atualizar dados | Permitir que os usuários atualizem suas informações de conta, como nome, endereço de e-mail e senha. |
+|RF-006 | Visualizar dados | Permitir que os usuários visualizem suas informações de conta, como histórico de login e atividades recentes. |
+|RF-007 | Excluir conta | Permitir que os usuários excluam sua conta, se desejarem. |
+|RF-008 | Recuperar senha | Possibilitar que os usuários recuperem suas senhas, caso as esqueçam. |
+|RF-009 | Confirmar conta | Enviar um e-mail de confirmação para os usuários após a criação de uma nova conta. |
+|RF-010 | Mostrar notificações | Permitir que os usuários optem por receber atualizações por e-mail do site, como notificações de novas postagens em fóruns de interesse. |
+|RF-011 | Configurar notificações | Permitir que os usuários alterem suas preferências de e-mail, escolhendo quais tipos de notificações desejam receber. |
+|RF-012 | Bloquear usuário | Permitir que os usuários bloqueiem outros usuários, impedindo-os de enviar mensagens privadas ou interagir em fóruns específicos. |
+|RF-013 | Denunciar conteúdo | Possibilitar que os usuários relatem conteúdo inapropriado ou violações de termos de serviço. |
+|RF-014 | Modificar informações do usuário | Permitir que os administradores do site modifiquem as informações de conta dos usuários, se necessário. |
+|RF-015 | Banir conta do usuário | Permitir que os administradores do site excluam as contas dos usuários, se necessário. |
+|RF-016 | Atualizar dados | Permitir que os administradores do site vejam uma lista de todas as contas de usuário registradas no site. |
+|RF-017 | Atualizar dados | Permitir que os usuários atualizem suas informações de conta, como nome, endereço de e-mail e senha. |
+|RF-018 | Atualizar dados | Permitir que os usuários atualizem suas informações de conta, como nome, endereço de e-mail e senha. |
+|RF-019 | Atualizar dados | Permitir que os usuários atualizem suas informações de conta, como nome, endereço de e-mail e senha. |
+|RF-020 | Atualizar dados | Permitir que os usuários atualizem suas informações de conta, como nome, endereço de e-mail e senha. |
 
 
 ## Requisitos Não Funcionais
