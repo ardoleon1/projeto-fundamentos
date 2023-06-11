@@ -155,7 +155,7 @@ Os usuários que forem acessar o site devem utilizar um computador com a seguint
 * Processador Dual Core 2GHz ou superior
 * 2Gb de memória RAM
 * 500Mb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8.
+* Para uso do site é preciso ter instalado o Java SE versão 8.
 
 # ESTUDO DE VIABILIDADE
 
