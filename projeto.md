@@ -9,8 +9,8 @@
 |:---|:---|:---|
 |Leonardo Pereira Mendes Ribas|Gerente de Projeto|loen.ribas20@gmail.com|
 |Patricia de Oliveira Silva|Engenheira de Software|patriciaoliveirasilva155@gmail.com|
-|Keila Rodrigues Silva|Analista|rodrigueskeila570@gmail.com|
-|Caliane Antoniely Magalhães|Programadora Front-end|calianeantonielly@gamil.com|
+|Keila Rodrigues Silva|Analista de Sistemas|rodrigueskeila570@gmail.com|
+|Caliane Antoniely Magalhães|Programadora Front-end|calianeantonielly@gmail.com|
 |Gabrielly Serafim de Oliveira|Programadora Back-end|gabriellyoliveira.ifro@gmail.com|
 
 # Sumário
@@ -107,80 +107,78 @@ Não fazem parte do escopo do projeto:
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+|**Usuário**|É um visitante do site que criou uma conta para participar do fórum de leitura. Pode postar comentários, iniciar tópicos de discussão e participar de grupos de discussão.|
+|**Administrador**|Responsável pela gestão geral do site, incluindo a moderação de conteúdo, o gerenciamento de usuários, a manutenção do servidor e outras atividades de administração. Pode editar, excluir e mover postagens e tópicos, conceder permissões especiais para usuários, gerenciar recursos do servidor e realizar outras tarefas administrativas.|
+|**Moderador**|É um usuário com permissões especiais para moderar o conteúdo do fórum de leitura. Pode editar, excluir e mover postagens e tópicos, monitorar o comportamento dos usuários e aplicar medidas disciplinares quando necessário.|
+|**Membro VIP**|É um usuário que ganhou privilégios especiais por ser um membro ativo e contribuir com conteúdo de qualidade para o fórum de leitura. Pode acessar áreas restritas do site, ter sua postagem destacada na página inicial, entre outros benefícios.|
+|**Visitante**|É um usuário que acessa o site sem criar uma conta. Pode visualizar o conteúdo público, mas não pode postar comentários ou iniciar novos tópicos de discussão.|
 
 ## Abrangência e sistemas similares
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
+O objetivo principal do sistema é criar uma plataforma para que os usuários possam interagir e discutir sobre temas relacionados à leitura, além de promover a divulgação de livros e autores. O sistema deve ser intuitivo, fácil de usar e ter uma interface agradável, para incentivar a participação dos usuários e tornar a experiência do usuário agradável. Outros requisitos importantes podem incluir segurança dos dados dos usuários, gerenciamento de conteúdo, relatórios e análises de desempenho, entre outros.
 
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+O sistema pode oferecer várias funcionalidades para facilitar a interação e o compartilhamento de informações entre os usuários.
 
-Das ferramentas de planejamento podemos citar:
+Algumas das funcionalidades que o sistema pode oferecer são:
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+* **Criação de tópicos:** permitir que os usuários criem novos tópicos de discussão sobre livros, autores, gêneros literários, entre outros assuntos relacionados à leitura;
 
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
+* **Postagem de comentários:** permitir que os usuários postem comentários em tópicos de discussão e conversem entre si sobre os diferentes aspectos da leitura;
 
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
+* **Criação de grupos de discussão:** permitir que os usuários criem grupos de discussão privados sobre tópicos específicos, como clubes de leitura, grupos de discussão sobre literatura infantil, entre outros;
 
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Mensagens privadas:** permitir que os usuários enviem mensagens privadas uns aos outros para discutir assuntos específicos ou trocar informações pessoais.
 
 ### Sistemas similares:
 
-No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
+No cenário atual, existem diversos sistemas que são utilizados pelos usuários, porém esses sistemas não atendem todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
 
-No cenário nacional encontram-se três sistemas que se destacam:
+No cenário nacional encontram-se dois sistemas que se destacam:
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
+**Skoob:** O Skoob é um site brasileiro de leitura que funciona como uma rede social para leitores. Os usuários podem criar perfis e adicionar livros que já leram, que estão lendo ou que pretendem ler. Além disso, o site possui uma seção de fórum onde os usuários podem discutir sobre livros, autores e outras temáticas literárias. Também é possível avaliar os livros, criar listas de leitura e participar de desafios literários.
 
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
+**Leitura Virtual:** O Leitura Virtual é um site brasileiro de leitura que oferece um amplo catálogo de livros para download gratuito em formato PDF. Além disso, o site possui uma seção de fórum onde os usuários podem discutir sobre livros e outras temáticas literárias. O site também conta com uma seção de resenhas e críticas literárias escritas pelos próprios usuários.
 
-No cenário internacional os sistemas de maior porte são:
+E no cenário internacional possuem os seguintes sistemas bem conhecidos:
 
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
+**Goodreads:** O Goodreads é um site internacional de leitura que também funciona como uma rede social para leitores. Com mais de 90 milhões de usuários, o site possui uma ampla variedade de recursos, incluindo uma seção de fórum onde os usuários podem discutir sobre livros, autores e outras temáticas literárias. Além disso, os usuários podem avaliar os livros, criar listas de leitura, participar de desafios literários e receber recomendações de livros com base em seus interesses.
 
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
+**LibraryThing:** O LibraryThing é um site internacional de leitura que oferece um catálogo online para que os usuários possam catalogar suas coleções de livros. Além disso, o site possui uma seção de fórum onde os usuários podem discutir sobre livros e outras temáticas literárias. Os usuários também podem avaliar os livros, criar listas de leitura e receber recomendações de livros com base em seus interesses. O LibraryThing é conhecido por sua ampla comunidade de bibliófilos e amantes da literatura.
 
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
 
-Os usuários devem utilizar um computador com a seguinte configuração mínima:
+Os usuários que forem acessar o site devem utilizar um computador com a seguinte configuração mínima:
 
 * Processador Dual Core 2GHz ou superior
 * 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+* 500Mb de armazenamento em disco
+* Para uso do sistema é preciso ter instalado o Java SE versão 8.
 
 # ESTUDO DE VIABILIDADE
 
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+Os colaboradores da empresa contratante possuem considerável experiência em desenvolvimento web e estão familiarizados com a criação de sites interativos. Os analistas também possuem conhecimentos sólidos em tecnologias modernas e tendências relacionadas a fóruns de leitura online. No entanto, o sistema utiliza uma tecnologia nova e emergente que os analistas e programadores não têm experiência prévia. Quanto ao tamanho do sistema, trata-se de um projeto de médio porte, com um nível moderado de complexidade, pois envolve recursos interativos, design responsivo e integração com outras plataformas, como mídias sociais e sistemas de recomendação de livros. Estima-se que o site atenderá a uma base de usuários significativa, com potencial para milhares de membros ativos. Apesar dos desafios relacionados à tecnologia nova e complexidade moderada, o projeto ainda é viável tecnicamente, considerando-se os benefícios esperados e os riscos identificados como controláveis.
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Foi realizada uma análise de custo-benefício abrangente, levando em consideração os investimentos necessários para o desenvolvimento, manutenção e promoção do site de fórum de leitura moderna. Mesmo com estimativas conservadoras em relação ao retorno sobre o investimento e aos benefícios totais, o projeto demonstra viabilidade econômica.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Do ponto de vista organizacional, este projeto de criação de um site de fórum de leitura moderna apresenta baixo risco. A administração e os responsáveis pela gestão da plataforma têm mostrado um forte interesse no projeto, reconhecendo a importância de promover a interação e o compartilhamento de conhecimento entre os leitores. Dessa forma, considerando o interesse e apoio dos gestores, bem como a demanda latente por uma ferramenta específica para discussões literárias, a viabilidade organizacional do projeto é sólida.
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 # Requisitos do Software
 
@@ -219,11 +217,11 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Segurança  |A capacidade do sistema de proteger informações. |
+|RNF-001 |Segurança  | A capacidade do sistema de proteger informações. |
 |RNF-002 |Escalabilidade | Lidar com um aumento de demanda sem que isso afete o desempenho. |
-|RNF-003 |Disponibilidade| Estar sempre disponível , sem paralizações prolongadas. |
+|RNF-003 |Disponibilidade| Estar sempre disponível, sem paralizações prolongadas. |
 |RNF-004 |Confiabilidade | Capacidade de ser confiável, realizando suas funções de forma consistente sem falhas. |
-|RNF-005 |Desempenho |A capacidade do sistema de lidar com grandes volumes de dados de forma rápida e eficiente . |
+|RNF-005 |Desempenho | A capacidade do sistema de lidar com grandes volumes de dados de forma rápida e eficiente. |
 |RNF-006 |Mantenabilidade | A capacidade do sistema de ser facilmente mantido e atualizado, sem ser interrompido. |
 |RNF-007 |Capacidade | Capacidade do sistema de ser monitorado e gerenciado facilmente pelos administradores do sistema. |
 |RNF-008 |Adaptabilidade |  A facilidade do sitema de se adaptar a diferentes ambientes. |
@@ -233,7 +231,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 
 # Prototipagem
@@ -242,7 +240,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do Protótipo](/img/home.png)
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 
 # Diagrama de Casos de Uso
@@ -283,15 +281,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Classes
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Sequências
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Atividades
 
