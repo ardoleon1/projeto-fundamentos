@@ -238,7 +238,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [Link do Protótipo criado no FIGMA](https://www.figma.com/file/n63YBCVZ7CareWh4693idSD/Slides?type=design&node-id=0-1)
 
-![Imagem do Protótipo](/img/sitedacreativemind.png)
+![Imagem do Protótipo](/img/site_da_creative_mind.png)
 
 [ [INÍCIO](#creative-mind) ]
 
