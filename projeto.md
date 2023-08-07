@@ -206,7 +206,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-014 | Modificar informações do usuário | Permitir que os administradores do site modifiquem as informações de conta dos usuários, se necessário. |
 |RF-015 | Banir usuário | Permitir que os administradores do site excluam as contas dos usuários, se necessário. |
 |RF-016 | Ver usuários | Permitir que os administradores do site vejam uma lista de todas as contas de usuário registradas no site. |
-|RF-017 | Modificicar configurações | Possibilitar que os administradores do site modifiquem as configurações de privacidade e segurança do site. |
+|RF-017 | Modificar configurações | Possibilitar que os administradores do site modifiquem as configurações de privacidade e segurança do site. |
 |RF-018 | Gerenciar permissões | Permitir que os administradores do site gerenciem permissões de acesso para grupos de usuários, como moderadores e administradores. |
 |RF-019 | Denunciar usuário | Permitir que os usuários denunciem outras contas por atividades suspeitas ou comportamento inadequado. |
 |RF-020 | Configurar privacidade | Possibilitar que os usuários definam suas preferências de privacidade, controlando quem pode ver suas informações de perfil e atividades no site. |
@@ -246,7 +246,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Diagrama de Casos de Uso
 
 
-![Diagrama de Casos de Uso](/img/use_case_placas.png)
+![Diagrama de Casos de Uso](/img/Creative_Mind_Diagrama.png)
 
 ## Descrição / Especificação dos Casos de Uso
 
