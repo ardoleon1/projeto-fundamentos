@@ -177,6 +177,7 @@ Do ponto de vista organizacional, este projeto de criação de um site de fórum
 
 # Metodologia Adotada no Desenvolvimento
 
+A aplicação da metodologia Scrum se revela altamente vantajosa para o desenvolvimento desse site. Isso se deve à necessidade de adaptabilidade e eficiência no contexto dinâmico de um ambiente literário, desde o início da construção do software até as futuras evoluções. O Scrum oferece capacidade de se adaptar a mudanças rápidas e incorporar novas funcionalidades à medida que as preferências e necessidades dos leitores evoluem. Portanto, a escolha do Scrum como metodologia de desenvolvimento é uma abordagem estratégica que alinha eficácia, flexibilidade e satisfação do usuário em um site de fórum de leitura moderna.
 
 [ [INÍCIO](#creative-mind) ]
 
@@ -245,7 +246,6 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Casos de Uso
 
-
 ![Diagrama de Casos de Uso](/img/Creative_Mind_Diagrama.png)
 
 ## Descrição / Especificação dos Casos de Uso
@@ -284,6 +284,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Classes
+
+![Diagrama de Classes](/img/CreativeMindClasses.png)
 
 [ [INÍCIO](#creative-mind) ]
 
