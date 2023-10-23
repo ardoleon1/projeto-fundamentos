@@ -276,6 +276,12 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
+<<<<<<< HEAD
+| REQUISITO |UC-Cadastrar|UC-inserir dados|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
+||:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|RF-001|X| | | | | | | | | |
+|RF-002| |X| |X| | | | | | |
+=======
 | REQUISITO |Criar conta|Solicitar dados|Verificar e-mail|Fazer Login|Visualizar dados|Excluir conta|Mostrar notificações|Configurar notificações|Bloquear usuário|Denunciar conteúdo| 
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001|X|X| | | | | | | | |
@@ -298,6 +304,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-018| | | | | | |X| |X| |
 |RF-019| | | | | | |X| |X|X|
 |RF-020| | | | | | |X| | | |
+>>>>>>> 39352deb6b1d5de2a13e02db7048f9cdc05c0e1a
 
 [ [INÍCIO](#creative-mind) ]
 
@@ -308,6 +315,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Sequências
+
+![Denunciar Conteúdo](/img/Denunciar_Conteúdo.png)
 
 [ [INÍCIO](#creative-mind) ]
 
