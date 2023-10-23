@@ -317,7 +317,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Diagrama de Sequências
 
 ![Denunciar Conteúdo](/img/Denunciar_Conteúdo.png)
-
+![Bloquear Usuário](/img/BloquearUsuario.png)
 [ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Atividades
