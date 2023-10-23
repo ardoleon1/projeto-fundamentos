@@ -318,6 +318,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Denunciar Conteúdo](/img/Denunciar_Conteúdo.png)
 ![Bloquear Usuário](/img/BloquearUsuario.png)
+![Excluir Conta](/img/excluir_conta.png)
 [ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Atividades
