@@ -320,6 +320,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![Bloquear Usuário](/img/BloquearUsuario.png)
 ![Excluir Conta](/img/excluir_conta.png)
 ![Mostrar Notificações](/img/Mostrar_notificacoes.png)
+![Denunciar Usuário](/img/Denunciar_Usuário.png)
 
 [ [INÍCIO](#creative-mind) ]
 
