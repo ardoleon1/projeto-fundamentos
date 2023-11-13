@@ -326,6 +326,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Atividades
 
+![Diagrama de Atividades](/img/Creative_Mind.png)
 
 # REFERÊNCIAS
 
