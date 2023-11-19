@@ -316,17 +316,17 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-![Denunciar Conteúdo](/img/Denunciar_Conteúdo.png)
-![Bloquear Usuário](/img/BloquearUsuario.png)
-![Excluir Conta](/img/excluir_conta.png)
+![Denunciar Conteúdo](/img/DA_Denunciar_conteudo.png)
+![Bloquear Usuário](/img/DA_Bloquear_usuario.png)
+![Excluir Conta](/img/DA_Excluir_conta.png)
 ![Mostrar Notificações](/img/Mostrar_notificacoes.png)
-![Denunciar Usuário](/img/Denunciar_Usuário.png)
+![Denunciar Usuário](/img/DA_Denunciar_usuario.png)
 
 [ [INÍCIO](#creative-mind) ]
 
 # Diagrama de Atividades
 
-![Diagrama de Atividades](/img/Creative_Mind.png)
+![Diagrama de Atividades](/img/DA_Creative_Mind.png)
 
 # REFERÊNCIAS
 
